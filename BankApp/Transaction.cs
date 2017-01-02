@@ -8,6 +8,6 @@ namespace BankApp
 {
     class Transaction
     {
-
+         
     }
 }
